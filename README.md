@@ -19,7 +19,7 @@ Python, Google Colab, Excel
 Solution:- 
 To solve the problem statement, I took the 3 months of sales data , billing data and stock-up data for analyzing the price trend of each SKUs.
 Using verious tools, i created detailed report on solving all the problem.
-1) [BDM Proposal](PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS/1) BDM Proposal.docx.pdf)
-2) [mid_report](PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS/2) mid_report.pdf)
-3) [Final_Submission_report](PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS/3) Final_Submission_report.docx.pdf)
+1) [BDM Proposal](https://github.com/21f3003095/PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS./blob/27279521b009f588f12a0249eccab45a7969f507/1.BDM%20Proposal.docx.pdf)
+2) [mid_report](https://github.com/21f3003095/PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS./blob/27279521b009f588f12a0249eccab45a7969f507/2.mid_report.pdf)
+3) [Final_Submission_report](https://github.com/21f3003095/PRICE-TREND-ANALYSIS-DEMAND-FORECASTING-FOR-A-WHOLESALE-BUSINESS./blob/27279521b009f588f12a0249eccab45a7969f507/3.Final_Submission_report.docx.pdf)
 
