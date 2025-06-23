@@ -19,3 +19,6 @@ Python, Google Colab, Excel
 Solution:- 
 To solve the problem statement, I took the 3 months of sales data , billing data and stock-up data for analyzing the price trend of each SKUs.
 Using verious tools, i created detailed report on solving all the problem.
+1) BDM Proposal.docx.pdf
+2) mid_report.pdf
+3) Final_Submission_report.docx.pdf
